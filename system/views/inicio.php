@@ -10,7 +10,8 @@
   <body>
     <h1>Hello, Helium!</h1>
     <ul>
-      <li><a href=""></a></li>
+      <li><a href="<?= __BASE_URL ?>/about-us">¿Quienes Somos?</a></li>
+      <li><a href="<?= __BASE_URL ?>/productos">Productos</a></li>
     </ul>
   </body>
 </html>
